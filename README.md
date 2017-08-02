@@ -2,7 +2,7 @@
   
    How to set up Docker containers configured with PHP 7.0 and NGINX server acting as a reverse proxy.
    
-  
+   ![alt text](img/Docker.PNG "Description goes here")
    
  ### Prerequisites
   Installation of Docker and Docker-Compose on your host machine.
